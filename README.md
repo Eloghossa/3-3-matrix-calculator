@@ -1,3 +1,4 @@
 # 3-3-matrix-calculator
-created with python 
-perform addition, substraction and multiplication 
+
+Perform addition, substraction and multiplication 
+of 3×3 matrix without the use of any module 
